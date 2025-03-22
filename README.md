@@ -1,10 +1,10 @@
-# React Geometric Box
+# React UI Box Design
 
-A React component that renders a geometric pattern of red and black squares within a gray-bordered container, matching the specified design.
+A React component that renders a Box pattern of red and black squares within a gray-bordered container, matching the specified design.
 
 ## Preview
 
-The component displays a geometric pattern with:
+The component displays a UI Box Design with:
 
 * A gray container with a border
 * Red squares in the top-left, bottom-left, and center positions
