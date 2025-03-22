@@ -48,4 +48,4 @@ The UI is created using:
 
 ## Deployment
 
-This project is deployed on Netlify. and can be accessed at .
+This project is deployed on Netlify. and can be accessed at [https://react-ui-box-design.netlify.app](https://react-ui-box-design.netlify.app/ "Live Link").
